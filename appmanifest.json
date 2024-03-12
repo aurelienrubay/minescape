@@ -1,0 +1,16 @@
+{
+	"name": "Mine Scape",
+	"short_name": "Mine Scape",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/New Piskel.png",
+			"sizes": "41x41",
+			"type": "image/png"
+		}
+	]
+}
